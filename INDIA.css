@@ -1,0 +1,11 @@
+h1 {color:rgb(0, 152, 253);
+  background: rgb(231, 247, 6);
+  text-align: center;
+  font-size: 150%;
+text- }
+body {
+  background: lightblue;
+  p{
+    display: block;
+  }
+}

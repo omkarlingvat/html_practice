@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My First page</title>
+</head>
+
+<body>
+    <h1>Bio</h1>
+    <p>Omkar Lingvat</p>
+    <br>
+    <p>Phone No. - 8082202626</p>
+    <h2>Degree</h2>
+    <p>Mechanical Engineer</p>
+    <h3>Specialization</h3>
+    <p>Design Engineer</p>
+</body>
+</html>
